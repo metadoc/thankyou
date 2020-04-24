@@ -1,8 +1,8 @@
 # Thank You!
 
-The following people & organizations have contributed to the growth of [Metadoc.io](https://metadoc.io), and **we're very thankful for the help!**
-
 > If you are interested in contributing in some way, please get in touch via **support@metadoc.io**.
+
+The following people & organizations have contributed to the growth of [Metadoc.io](https://metadoc.io), and **we're very thankful for the help!**
 
 | Contributor | Contributions |
 |:-|:-|
