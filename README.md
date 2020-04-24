@@ -22,7 +22,7 @@ The following people & organizations have contributed to the growth of [Metadoc.
 
 | Org | Contribution |
 |:-|:-|
-| Y-Combinator Startup School | Helping us vet the concept in the [Winter 2020 Cohort](https://startupschool.com/companies/metadoc) |
+| Y-Combinator Startup School | Helping us vet the concept in the [Winter 2020 Cohort](https://www.startupschool.org/companies/metadoc) |
 | Amazon Web Services | Infrastructure |
 | Google Cloud | Infrastructure |
 | Heroku | Infrastructure |
