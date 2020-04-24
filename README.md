@@ -6,8 +6,8 @@ The following people & organizations have contributed to the growth of [Metadoc.
 
 | Contributor | Contributions |
 |:-|:-|
-| [Corey Butler](https://github.com/coreybutler) | Cofounder/Systems Lead) |
-| [Graham Butler](https://github.com/gbdrummer) | Cofounder/UX/UI Lead) |
+| [Corey Butler](https://github.com/coreybutler) | Cofounder/Systems Lead |
+| [Graham Butler](https://github.com/gbdrummer) | Cofounder/UX/UI Lead |
 | [Guillaume Massé](https://github.com/MasseGuillaume) | Donated `metadoc` Github organization name. |
 | [github.com/author](https://github.com/author) | metadoc.js |
 
